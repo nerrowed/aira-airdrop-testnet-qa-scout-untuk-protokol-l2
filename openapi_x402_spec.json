@@ -1,0 +1,19 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Airdrop/Testnet QA Scout untuk protokol L2/DeFi resmi",
+    "version": "1.1.0",
+    "description": "Modal $0 digunakan untuk mengerjakan tugas testnet/on-chain quest resmi dan bounty QA dari protokol yang diverifikasi lewat Binance, CoinMarketCap, atau rilis GlobeNewswire. Fokus pada kontribusi nyata, satu wallet manusia, dokumentasi bukti, dan hindari sybil; payout USDC/token setelah kampanye selesai. Target awal: menutup biaya server $18 dari 1-2 bounty kecil dalam 2-3 minggu, tanpa jaminan hasil."
+  },
+  "x-payment-x402": {
+    "asset": "USDC",
+    "price_usd": 0.3,
+    "evm_recipient": "0xC6F1Cd687B368E76E613a50de38fe6AF33e75202",
+    "solana_recipient": "5fuWo7QyKAQCBV4xLVksLM6ykUAH3EdwUTUK6ieZT7kZ",
+    "chains": [
+      "base",
+      "arbitrum",
+      "solana"
+    ]
+  }
+}

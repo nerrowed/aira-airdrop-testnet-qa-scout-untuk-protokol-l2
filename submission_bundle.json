@@ -1,0 +1,18 @@
+{
+  "venture_id": "ven-e09cd83755",
+  "title": "Airdrop/Testnet QA Scout untuk protokol L2/DeFi resmi",
+  "niche_category": "airdrop_testnet_berinsentif_dan",
+  "payout_wallets": {
+    "evm": "0xC6F1Cd687B368E76E613a50de38fe6AF33e75202",
+    "solana": "5fuWo7QyKAQCBV4xLVksLM6ykUAH3EdwUTUK6ieZT7kZ"
+  },
+  "expected_return_usd": 30.0,
+  "artifacts_sha256": {
+    "VENTURE_PLAYBOOK.md": "0e8991edd3b35a13",
+    "openapi_x402_spec.json": "2f3d0f1f0d1a301d",
+    "test_venture_engine.py": "3ca27c4a96ac5259",
+    "test_venture_gtm.py": "b7eaa209afe6bc9f",
+    "venture_engine.py": "f791d34e4c27b79e"
+  },
+  "ready_for_external_publish": true
+}
